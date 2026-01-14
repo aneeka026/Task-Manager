@@ -1,6 +1,8 @@
 # Task-Manager Web App
 This is a task manager application built using JavaScript. It allows users to add, delete, edit, and filter tasks. The app also saves tasks to localStorage, ensuring that tasks persist even after the browser is refreshed.
 
+# Live link : https://tasklist0.netlify.app/
+
 # Screenshot
 <img width="1042" alt="final ss " src="https://github.com/user-attachments/assets/0acea18b-75c5-4e5a-a5ec-b3e9a77d634c" />
 
